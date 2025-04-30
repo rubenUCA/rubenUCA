@@ -8,7 +8,7 @@
     - Beginner-friendly AI or machine learning tools.
     - Applications with no-code tools.
 - 📫 How to reach me?
-    - 📧 Email: rubnmartinez10@gmail.com
+    - 📧 Email: 00076325@uca.edu.sv
     - 💼 LinkedIn: www.linkedin.com/in/ruben-martinez-p0
     - 💬 Or just drop me a message here on GitHub!
 - ⚡ Fun facts:
