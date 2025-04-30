@@ -1,0 +1,19 @@
+- 👋 Hi, I’m @rubenUCA
+- 👀 I’m interested in technology and innovation
+- 🌱 I'm currently learning computer science. I'm passionate about new technologies and how they can be combined to solve complex problems.
+- 💞️ I’m looking to collaborate on...
+    - Web development projects.
+    - Open-source tools.
+    - Projects involving frontend/backend design with technologies like HTML, CSS, JS, or C++.
+    - Beginner-friendly AI or machine learning tools.
+    - Applications with no-code tools.
+- 📫 How to reach me?
+    - 📧 Email: rubnmartinez10@gmail.com
+    - 💼 LinkedIn: www.linkedin.com/in/ruben-martinez-p0
+    - 💬 Or just drop me a message here on GitHub!
+- ⚡ Fun facts:
+    - 🎨 I use painting as a way to express myself and disconnect from stress.
+    - 🤖 I’m passionate about programming and currently exploring the world of AI.
+    - ➕ Math is not just a subject to me — it's a language I enjoy teaching and understanding.
+    - 💡 I love creating innovative solutions to real-world problems.
+    - 🚀 I’m a proud participant of Oportunidades, a program that shaped my academic and professional growth.
