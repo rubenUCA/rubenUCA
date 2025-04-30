@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rubenUCA
+- 👋 Hi, I’m Ruben!
 - 👀 I’m interested in technology and innovation
 - 🌱 I'm currently learning computer science. I'm passionate about new technologies and how they can be combined to solve complex problems.
 - 💞️ I’m looking to collaborate on...
